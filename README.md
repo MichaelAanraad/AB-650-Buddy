@@ -5,7 +5,7 @@ Services**. 500 original questions over all 58 objectives in the
 [study guide](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-650),
 weighted by domain, at three difficulty levels. Not real exam questions.
 
-**Open it:** https://michaelaanraad.github.io/ab-650-Buddy/ (works offline and
+**Open it:** https://michaelaanraad.github.io/AB-650-Buddy/ (works offline and
 on phones; progress is stored in your browser).
 
 - Question types as on the real exam: single and multiple choice, build list
